@@ -1,0 +1,16 @@
+SkillSwap Testing and Validation Engine – extracted file inventory
+
+README.md
+backend/accounts/tests.py
+backend/achievements/tests.py
+backend/administration/tests.py
+backend/chatbot/tests.py
+backend/learning_sessions/tests.py
+backend/materials/tests.py
+backend/notifications/tests.py
+backend/reviews/tests.py
+backend/skills/tests.py
+backend/swaps/tests.py
+backend/verification/tests.py
+backend/wallet/tests.py
+documentation/testing.md
